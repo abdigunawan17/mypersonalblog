@@ -31,7 +31,7 @@ export const generateStaticParams = async () => {
     const localisedParams =  categories?.data?.map((category) => {
         return {
             category: category.slug as string,
-            lang: "de",
+            lang: "in",
         };
     });
 
