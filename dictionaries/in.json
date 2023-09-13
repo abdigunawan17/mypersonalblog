@@ -1,0 +1,25 @@
+{
+    "navigation": {
+        "links": {
+            "cities": "Kota",
+            "experience": "Pengalaman"
+        }
+    },
+    "buttons": {
+        "readMore": "Baca"
+    },
+    "ctaCard": {
+        "title": "Explore dunia dengan aku",
+        "description": "Yuk explore dunia dengan aku! Aku telah keliling dunia. Aku mengunjungi hampir semua kota yang sangat populer seperti Amerika, dan sekarang aku mengunjungi Malaysia, Yuk gagung dengan aku!",
+        "button": "Daftar",
+        "placeholder": "Tuliskan email anda.",
+        "subcriberText1": "Gabung dengan",
+        "subcriberText2": "subcribers kita sekarang!"
+    },
+    "footer": {
+        "description": "Minimalis travel blog yang dengan bahagia membagikan cerita tentang pengalaman dan kota kota yang indah diseluruh dunia!",
+        "rightsText": "Semua hak dilindungi undang-undang | Hak cipta",
+        "creatorText": "Dibuat dengan ❤️ oleh",
+        "currentlyAtText": "Saat ini berada di"
+    }
+}

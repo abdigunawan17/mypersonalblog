@@ -1,0 +1,25 @@
+{
+    "navigation": {
+        "links": {
+            "cities": "Cities",
+            "experience": "Experience"
+        }
+    },
+    "buttons": {
+        "readMore": "Read More"
+    },
+    "ctaCard": {
+        "title": "Explore the world with me!",
+        "description": " Explore the world with me! Im travelling around the world. I have visited most of the great cities of america and currently Im travelling in malaysia Join with me!",
+        "button": "Sign Up",
+        "placeholder": "Write your email.",
+        "subcriberText1": "Join our",
+        "subcriberText2": "subcribers now!"
+    },
+    "footer": {
+        "description": "A minimal and lovely travel blog which shares experiences and citiest around the world!",
+        "rightsText": "All rights are reserved | Copyright",
+        "creatorText": "Created with ❤️ by",
+        "currentlyAtText": "Currently at"
+    }
+}
