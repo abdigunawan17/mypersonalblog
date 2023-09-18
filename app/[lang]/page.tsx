@@ -70,7 +70,7 @@ export default async function Home({
   return (
     <PaddingContainer>
       <main className="h-auto space-y-10">
-       <PostCard locale={locale} post={posts[0]} />
+       <PostCard locale={locale} post={posts[3]} />
        {/* <PostCard layout="vertical" post={DUMMY_POSTS[5]} /> */}
        {/* so we can add _post since we don't need post */}
        <PostList 
